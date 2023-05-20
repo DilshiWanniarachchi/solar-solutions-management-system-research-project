@@ -1,5 +1,9 @@
-# solar-solutions-management-system-research-project
+# solar-solutions-management-system-research-project 
+[Original Repo]([https://www.ijrte.org/portfolio-item/A76200512123/](https://github.com/anusaraweerasooriya/ITPM-Solar-Solutions-Management-System.git))
 
-A web-based application was developed to address SDG-7, which is to provide affordable and clean energy for all. A research paper based on this project, titled "Addressing the prevailing energy crisis in Sri Lanka: A case for cost- efficient energy consumption" is currently accepted and presented for publication in a Scopus indexed journal
+A web application built to address the Sustainable Development Goal(SDG) 7, which is to provide access to affordable, reliable, sustainable, and modern energy for all. Sri Lanka is facing significant challenges in the energy sector. Clean energy access remains a major issue, compounded by the current economic crisis and high inflation rates. In order to address these problems, the web application provides functionalities such as;
+- Online electricity bill prediction.
+- Online donation program.
+- Solar solutions and consultations. 
 
 #### JavaScript | React.js | Node.js | Express.js | Mongo DB | Material UI | Azure DevOps | Selenium | SonorQube
